@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "861920156845",
+    "firebase_url": "https://food-order-ff2f5.firebaseio.com",
+    "project_id": "food-order-ff2f5",
+    "storage_bucket": "food-order-ff2f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861920156845:android:31255ebd71573d47",
+        "android_client_info": {
+          "package_name": "comq.example.raymond.plasucafeteria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861920156845-dtejthsmj50shvij46n1jjh1cvjob99u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "comq.example.raymond.plasucafeteria",
+            "certificate_hash": "b1b0f1cd4585b756a6c8a6d2a9101c87fde469e6"
+          }
+        },
+        {
+          "client_id": "861920156845-76dbirimva331g0falh84kqiad1c78ub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpogn99f2oG9z4IBi3r-N6CSnD2EGFpj8"
+        },
+        {
+          "current_key": "AIzaSyDpogn99f2oG9z4IBi3r-N6CSnD2EGFpj8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861920156845-76dbirimva331g0falh84kqiad1c78ub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
